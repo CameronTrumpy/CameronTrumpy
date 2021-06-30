@@ -1,5 +1,5 @@
-- 👋 Hey, I’m @CameronTrumpy, a High School Junior and member of [@FF503](https://github.com/FF503).
-- 👀 I’m interested in Programming, Robotics, Electronics design and repair, Music, and Machine Learning Vision.
+- 👋 Hey, I’m @CameronTrumpy, a '22 High School Senior and Programming Group Co-Lead of [@FF503](https://github.com/FF503).
+- 👀 I’m interested in Programming, Robotics, Electronics design and repair, Music, and Machine Learning CV.
 - Check out my [website](https://camerontrumpy.github.io/) for info on projects and more details about me.
 
 <!---
